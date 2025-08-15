@@ -35,21 +35,23 @@ No terminal, dentro da pasta do projeto:
 ```bash
 mvn compile
 mvn exec:java -Dexec.mainClass="br.com.alura.Main"
+```
 
 ---
+
 ## 📁 Estrutura do Projeto
 
 conversor-de-moedas/
 ├── src/
-│   └── main/
-│       └── java/
-│           └── br/
-│               └── com/
-│                   └── alura/
-│                       ├── Main.java
-│                       ├── ConversorComImagem.java
-│                       ├── CurrencyConverter.java
-│                       └── ExchangeRateService.java
+│ └── main/
+│ └── java/
+│ └── br/
+│ └── com/
+│ └── alura/
+│ ├── Main.java
+│ ├── ConversorComImagem.java
+│ ├── CurrencyConverter.java
+│ └── ExchangeRateService.java
 ├── pom.xml
 ├── README.md
 └── .gitignore
@@ -59,6 +61,5 @@ conversor-de-moedas/
 ## 👨‍💻 Autor
 
 Diego Miranda Gregório – Brasília, Brasil Projeto desenvolvido como desafio de aprendizado em Java.
-```
 
 ---
