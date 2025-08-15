@@ -29,17 +29,20 @@ mvn exec:java -Dexec.mainClass="Main"
 
 ## 📁 Estrutura do Projeto
 
-conversor-de-moedas/
-├── src/
-│ └── main/
-│ └── java/
-│ ├── Main.java
-│ ├── ConversorComImagem.java
-│ ├── CurrencyConverter.java
-│ └── ExchangeRateService.java
-├── pom.xml
-├── README.md
-└── .gitignore
+- conversor-de-moedas/
+- ├── src/
+- │ └── main/
+- │ └── java/
+- │ └── br/
+- │ └── com/
+- │ └── alura/
+- │ ├── Main.java
+- │ ├── ConversorComImagem.java
+- │ ├── CurrencyConverter.java
+- │ └── ExchangeRateService.java
+- ├── pom.xml
+- ├── README.md
+- └── .gitignore
 
 ## 👨‍💻 Autor
 
