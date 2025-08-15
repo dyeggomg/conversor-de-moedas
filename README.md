@@ -37,6 +37,10 @@ mvn compile
 mvn exec:java -Dexec.mainClass="br.com.alura.Main"
 ```
 
+OBS: O projeto duas opções de execução:
+
+1. console ou 2. interface gráfica
+
 ---
 
 ## 📁 Estrutura do Projeto
